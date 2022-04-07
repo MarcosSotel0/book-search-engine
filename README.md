@@ -1,31 +1,4 @@
-<p align="center"> 
-  <img src="https://i.ibb.co/T1B2pf5/Mern-logo-repo.png" alt="Mern-logo-repo">
-</p>
-
-<h1 align="center"> Book Search Engine 👋</h1>
-  
-<p align="center">
-    <img src="https://img.shields.io/github/repo-size/jpd61/book-search-engine" />
-    <img src="https://img.shields.io/github/languages/top/book-search-engine"  />
-    <img src="https://img.shields.io/github/issues/jpd61/book-search-engine" />
-    <img src="https://img.shields.io/github/last-commit/jpd61/book-search-engine" >
-    <a href="https://github.com/jpd61"><img src="https://img.shields.io/github/followers/jpd61?style=social" target="_blank" /></a>
-    <a href="https://twitter.com/jpdewoody">
-        <img alt="Twitter: jpdewoody" src="https://img.shields.io/twitter/follow/jpdewoody.svg?style=social" target="_blank" />
-    </a>
-</p>
-  
-<p align="center">
-    <img src="https://img.shields.io/badge/javascript-yellow" />
-    <img src="https://img.shields.io/badge/mongoDB-purple" />
-    <img src="https://img.shields.io/badge/express-red" />
-    <img src="https://img.shields.io/badge/react-green" />
-    <img src="https://img.shields.io/badge/node-gray" />
-    <img src="https://img.shields.io/badge/graphQL-yellow" />
-    <img src="https://img.shields.io/badge/apollo-blue" />
-</p>
-   
-## Description
+   ## Description
 
 A MERN stack application using Google Books API that allows a user to login, search books and save favorites.
 
