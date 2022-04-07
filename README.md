@@ -27,13 +27,7 @@
    
 ## Description
 
-🔍 A MERN stack application using Google Books API that allows a user to login, search books and save favorites.
-
-**[Deployed Application](https://murmuring-tor-75740.herokuapp.com/)**
-  
-💻 Below is a screenshot of the application:
-  
-![book-search-engine](https://github.com/jpd61/book-search-engine/raw/master/Capture.PNG)
+A MERN stack application using Google Books API that allows a user to login, search books and save favorites.
 
 ## User Story
 
@@ -106,7 +100,6 @@ You will also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
@@ -115,8 +108,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
 
@@ -129,14 +120,10 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## Testing
-✏️
 
 No current testing
 
-## Contributing
-:octocat: [Joseph DeWoody](https://github.com/jpd61)
-
 ## Questions
-✉️ Contact me with any questions: [email](mailto:jpd@dewoodyoil.com) , [GitHub](https://github.com/jpd61)<br />
 
-[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/jpd61/)
+Contact me with any questions: [email](sotelom3x@hotmail.com)<br />
+
